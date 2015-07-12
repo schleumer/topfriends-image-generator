@@ -17,6 +17,13 @@
   },
   "homepage": "https://github.com/schleumer/topfriends-image-generator",
   "dependencies": {
-    "express": "^4.13.1"
+    "bluebird": "^2.9.33",
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1",
+    "livescript": "^1.4.0",
+    "mkdirp": "^0.5.1",
+    "multer": "^0.1.8",
+    "prelude-ls": "^1.1.2",
+    "request": "^2.58.0"
   }
 }
